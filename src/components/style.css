@@ -1,0 +1,16 @@
+.form-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+  
+  .form-group label {
+    margin-right: 0.5rem;
+    color: gray;
+    min-width: 150px; 
+  }
+  
+  .form-control {
+    flex: 1;
+  }
+  
